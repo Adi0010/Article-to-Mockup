@@ -1,0 +1,31 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. 
+Answer the following questions:
+  
+
+* What new skills have you learned?
+  
+
+with the inclusion of mockup html webpages construction, i now understand the basic html code behind a webpage rendered 
+by my web browser. I have also learnt that for the same operation,there are more than one element tags defined 
+which can be used.
+
+* What has been easy?
+  
+
+the initial html syntaxes have been easy and the project rubrics was also understandable
+*
+ What has been difficult?
+  *
+
+until now, it has been a great journey with html basics. For the consideration of difficulty rating, i think 
+it depends upon the topics which shall be introducted in the subsequent lessons.
+
+How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+
+Your response goes here!
+
+well my earlier assumption about knowing basic html has somehow subdued, as i learnt about new elements, attributes 
+working of web browsers and their networking protocols. I also learnt about the internal working of 
+udacity feedback extension. With the knowledge developed so far, i shall be incorporating the same workflow 
+in my other web application projects . 
