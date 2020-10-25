@@ -1,0 +1,4 @@
+PRT ['ABC']
+PNAME ['DEF', 'DD', 'EE', 'FF']
+SUITE ['WW']
+RUN ['LOL']
